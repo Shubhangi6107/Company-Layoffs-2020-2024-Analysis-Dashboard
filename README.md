@@ -1,4 +1,4 @@
-# Company-Layoffs-2020-2024-Analysis-Dashboard
+# Company-Layoffs-2020-2024-Analysis-Dashboard (Power BI)
 
 ## Table of Contents
 1. [Introduction](#introduction)
